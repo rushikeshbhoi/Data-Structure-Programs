@@ -25,7 +25,7 @@ int main()
             }
         }
     }
-    cout << "The sorted Array is :";
+    cout << "The sorted Array is :"<<endl;
     for (int i = 0; i < n; i++)
     {
         cout << arr[i] << " ";
